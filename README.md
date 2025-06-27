@@ -1,5 +1,5 @@
 # Zelda Classic
-Zelda Classic is a game and editing tool that lets you create custom Legend of Zelda quests.
+Zelda Classic 2.50 was released in December 2012 for Windows, MacOS, Linux, and DOS. This codebase represents the final 2.50.2 service release. Note that this version of Zelda Classic is no longer active or maintained. More downloads can be found on the homepage.
 
 Homepage:
 http://zeldaclassic.com
@@ -19,6 +19,8 @@ This repository contains the Zelda Classic source code, for use by the Zelda Cla
 ## Building the Source
 
 Because of Zelda Classic's extended development history and dependency on legacy libraries, the build process is somewhat involved. The instructions here are not comprehensive, but are intended to help you get started.
+
+Note that Visual Studio project files are supplied for 2008 and 2010 toolchains, however these should be able to be upgraded to newer VS versions without any difficulty.
 
 ### General Comments
 
